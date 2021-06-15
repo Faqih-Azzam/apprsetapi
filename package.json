@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "buat applikasi restapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faqih-Azzam/apprsetapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "faqih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faqih-Azzam/apprsetapi/issues"
+  },
+  "homepage": "https://github.com/Faqih-Azzam/apprsetapi#readme"
+}
